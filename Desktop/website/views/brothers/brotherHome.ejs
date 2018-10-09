@@ -1,0 +1,56 @@
+<link rel="stylesheet" type="text/css" href="/stylesheets/brothers/brotherHome.css">
+<script type="text/javascript" src="/javascripts/controllers/brothers/BrotherHomeController.js"></script>
+<div ng-controller="brotherHomeController" class="brotherHomeContainer">
+
+  <div class="pageContentContainer brotherHomeContentContainer">
+    <div class="pageContent brotherHomeContent">
+      <%- partial('brothers/partials/brothersHeader') %>
+      <div class="container pageMainContentContainer brotherHomeMainContentContainer">
+        <div id="brotherHomeCarousel" class="imgShadow carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li ng-repeat="img in viewModel.carouselImgs.concat([])" 
+                ng-class="{active: !$index}"
+                data-target="#brotherHomeCarousel" 
+                data-slide-to="{{$index}}" 
+                ></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div ng-repeat="img in viewModel.carouselImgs" 
+                 ng-class="{active: !$index}"
+                 class="item">
+              <img class="carouselImg" ng-src="{{img.src}}">
+              <div class="carousel-caption">
+                <h3 ng-bind="img.caption"></h3>
+              </div>
+            </div>
+          </div>
+
+          <!-- Controls -->
+          <a class="left carousel-control" href="#brotherHomeCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+          </a>
+          <a class="right carousel-control" href="#brotherHomeCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+        </div>
+        <h1>
+          <ts text="Our Values"></ts>
+        </h1>
+        <table>
+          <tr>
+            <td class="valuesCol"><h3>Trust</h3></td>
+            <td class="valuesCol"><h3>Respect</h3></td>
+            <td class="valuesCol"><h3>Brotherhood</h3></td>
+          </tr>
+        </table>
+        <div class="valuesDescription">
+          <h4>The brothers of Nu Delta hold these values at the core of who we are as a fraternity.  The bonds we hold drive us forward, and allow us to become the best individuals we can be.  The memories we make and experiences we share make college a truly unforgettable experience.  To learn about the individual brothers of Nu Delta, click on a class at the top of the screen.</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

@@ -1,0 +1,5 @@
+.idea/
+ndapp.iml
+node_modules/
+*.*~
+*.log

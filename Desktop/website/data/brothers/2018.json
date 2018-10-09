@@ -1,0 +1,204 @@
+{
+  "Brandon Zabala": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "1"}, 
+      {"infoName": "Major", "info": "Chemical Engineering"}, 
+      {"infoName": "Hometown", "info": "Albuquerque, New Mexico"}, 
+      {"infoName": "High School", "info": "Hope Christian High School"}, 
+      {"infoName": "Big Brother", "info": "James Rivera ('17)"},
+      {"infoName": "Little Brother", "info": "Alain Hyacinthe ('19), Jonathan Sampson ('20)"},
+      {"infoName": "Offices Held", "info": "Social Chair, Rush Girl Coordinator"}, 
+      {"infoName": "Interests", "info": "Music, Basketball, Sports, Energy, and Chemistry"},
+      {"infoName": "UROPs", "info": "Lithium Air Batteries in the Hammond Lab <br>Nanowire Fabrication and Design for the Modeling of Organic Molecule Behavior"}, 
+      {"infoName": "Employment/Internships", "info": "MITRE Corporation Emerging Technologies Intern <br>Yearout Mechanical Incorporated Intern <br>Interphase EDGE Chemistry Facilitator <br>Harvard Center for Nanoscale Systems Cleanroom Researcher"}
+    ], 
+    "familyTree": 6, 
+    "jumboSrc": "/images/brothers/2018/Brandon/BrandonFull.png", 
+    "iconSrc": "/images/brothers/2018/Brandon/BrandonHS.png"
+  }, 
+  "Jordan Browne": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "2"}, 
+      {"infoName": "Major", "info": "Mathematics and Economics"}, 
+      {"infoName": "Minor", "info": "Management Science with a Concentration in Finance"}, 
+      {"infoName": "Hometown", "info": "Plymouth, New Hampshire"}, 
+      {"infoName": "High School", "info": "Cambridge Rindge and Latin School"}, 
+      {"infoName": "Offices Held", "info": "Treasurer"},
+      {"infoName": "Big Brother", "info": "Brian Wilcox ('16)"}, 
+      {"infoName": "Little Brother", "info": "Abnell Comas ('19), Nwanacho Nwana ('20)"},
+      {"infoName": "Interests", "info": "Algorithmic trading, market speculation, politics"}, 
+      {"infoName": "Employment", "info": "Financial Analyst at Genealogical Search Incorporated <br> Quantitative Analyst Intern at Natixis Global Asset Management"}, 
+      {"infoName": "Activities", "info": "Rowing, squash"}, 
+      {"infoName": "Favorite Quote", "info": "&quot;Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek&quot; -President Barack Obama"}
+    ], 
+    "familyTree": 2, 
+    "jumboSrc": "/images/brothers/2018/Jordan/JordanFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Jordan/JordanHS.jpg"
+  },
+  "Solan Israel-Megerssa": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "3"}, 
+      {"infoName": "Major", "info": "Course 16: Aerospace Engineering"},
+      {"infoName": "Hometown", "info": "San Francisco, California"}, 
+      {"infoName": "Big Brother", "info": "Eric Shirley ('16)"},
+      {"infoName": "Little Brother", "info": "Zidane Abubakar ('20)"},
+      {"infoName": "Interests", "info": "Space exploration, autonomous systems, Ultimate Frisbee, Soccer, Super Smash Bros"},
+      {"infoName": "UROPs", "info": "Space Systems Lab (REXIS), Man Vehicle Lab (Human performance quantifying)"},
+      {"infoName": "Employment", "info": "Jet Propulsion Laboratory | Northrop Grumman | MIT Space Systems Lab"},
+      {"infoName": "Activities", "info": "Ultimate Frisbee"},
+      {"infoName": "Favorite Quote", "info": "The Dude abides"}
+    ], 
+    "familyTree": 5, 
+    "jumboSrc": "/images/brothers/2018/Solan/SolanFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Solan/SolanHS.jpg"
+  },
+  "Eduardo Orozco": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "4"}, 
+      {"infoName": "Big Brother", "info": "Amin Manna ('17)"},
+      {"infoName": "Little Brother", "info": "Johan Villanueva ('20)"}
+    ], 
+    "familyTree": 2, 
+    "jumboSrc": "/images/brothers/2018/Eduardo/EduardoFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Eduardo/EduardoHS.jpg"
+  },
+  "Stephen Gaffley": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "5"}, 
+      {"infoName": "Major", "info": "Course 2: Mechanical Engineering"},
+      {"infoName": "Hometown", "info": "Davie, Florida"}, 
+      {"infoName": "High School", "info": "University School"}, 
+      {"infoName": "Offices Held", "info": "Social Chair, Sisters Chair"},
+      {"infoName": "Big Brother", "info": "Alan Samboy Adames ('17)"},
+      {"infoName": "Little Brother", "info": "Gabrield Evans ('20)"}, 
+      {"infoName": "Interests", "info": "Music Composition, Video Games, Volleyball, Anime, Tennis"}, 
+      {"infoName": "UROPs", "info": "Manufacturing a Mechanized Tractor for Small Farms in India <br> Global Engineering and Research Lab <br> Developing a Growth Factor Printer for Artificial Silk Ligaments <br> Marelli Research Lab <br> Designing a Membrane-less Immiscible Microfluidic Flow Cell <br> Brushett Research Group"},
+      {"infoName": "Activities", "info": "DanceTroupe, NSBE"}
+    ], 
+    "familyTree": 4, 
+    "jumboSrc": "/images/brothers/2018/Stephen/StephenFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Stephen/StephenIcon.jpg"
+  },
+  "Kristopher Wiggins": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "6"}, 
+      {"infoName": "Major", "info": "Chemical Engineering"},
+      {"infoName": "Hometown", "info": "New York, New York"}, 
+      {"infoName": "High School", "info": "Frederick Douglass Academy"}, 
+      {"infoName": "Offices Held", "info": "Athletic Chair, Steward"},
+      {"infoName": "Big Brother", "info": "Daniel Sanchez ('16)"}, 
+      {"infoName": "Interests", "info": "Sports, Games, Movies, Music, Poetry"}, 
+      {"infoName": "UROPs", "info": "Combustion Dynamics Laboratory (TOF Mass Spec)"},
+      {"infoName": "Employment", "info": "Schlumberger, OSIsoft"}, 
+      {"infoName": "Activities", "info": "MIT Energy Club"},
+      {"infoName": "Favorite Quote", "info": "&quot;No hablo ingles&quot;"}
+    ], 
+    "familyTree": 0, 
+    "jumboSrc": "/images/brothers/2018/Kris/KrisFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Kris/KrisHS.png"
+  },
+  "Fabrice Fils-Aime": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "7"}, 
+      {"infoName": "Major", "info": "Nuclear Engineering"}, 
+      {"infoName": "Hometown", "info": "Coral Springs, Florida"}, 
+      {"infoName": "High School", "info": "Blanche Ely High School"}, 
+      {"infoName": "Offices Held", "info": "Rush Chair"},
+      {"infoName": "Big Brother", "info": "Carlos Henriquez ('17)"}, 
+      {"infoName": "Little Brother", "info": "Paul Herold Jr. ('19), Mateo Correa ('20)"},
+      {"infoName": "Interests", "info": "Rapping, Anime, Pokémon, Video Games"}, 
+      {"infoName": "Favorite Quote", "info": "&quot;I see now that the circumstances of one's birth are irrelevant; it is what you do with the gift of life that determines who you are&quot;"}, 
+      {"infoName": "Employment", "info": "MIT Nuclear Reactor Laboratory"}
+    ], 
+    "familyTree": 3, 
+    "jumboSrc": "/images/brothers/2018/Fabrice/FabriceFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Fabrice/FabriceHS.jpg"
+  },
+  "Yoeal Efrem": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "8"}, 
+      {"infoName": "Major", "info": "Computer Science"}, 
+      {"infoName": "Hometown", "info": "Cambridge, MA"}, 
+      {"infoName": "High School", "info": "Cambridge Rindge and Latin School"}, 
+      {"infoName": "Offices Held", "info": "House manager, Careers Chair"}, 
+      {"infoName": "Big Brother", "info": "Mikael Mengistu ('16)"}, 
+      {"infoName": "Little Brother", "info": "Edward Johnson Jr. ('19), Bamlak Gessessew ('20)"},
+      {"infoName": "Employment", "info": "Akamai, Rev"}, 
+      {"infoName": "Interests", "info": "Soccer, Basketball, Artificial Intelligence"}
+    ], 
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2018/Yoeal/YoealFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Yoeal/YoealHS.jpg"
+  },
+  "Rex Shepherd": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "9"}, 
+      {"infoName": "Major", "info": "16: Aerospace Engineering"},
+      {"infoName": "Hometown", "info": "Mandeville, Louisiana"}, 
+      {"infoName": "High School", "info": "Lakeshore High School"}, 
+      {"infoName": "Offices Held", "info": "Vice President"},
+      {"infoName": "Big Brother", "info": "Frederick Odein Daso ('17)"}, 
+      {"infoName": "Little Brother", "info": "Benjamin Waar ('19), Roderick Bayliss ('20)"},
+      {"infoName": "Employment/Internships", "info": "General Motors Full Time | Northrop Grumman Intern"}, 
+      {"infoName": "Activities", "info": "DanceTroupe, IFC Sexual Misconduct Committee"}, 
+      {"infoName": "Interests", "info": "Football, Biking, Card Games, Video Games, Anime"},
+      {"infoName": "Employment", "info": "Northrop Grumman"}, 
+      {"infoName": "Programs", "info": "Interphase 2014, UPOP, GEL"}, 
+      {"infoName": "Favorite Quote", "info": "&quot;If at any time you should have need of my life, come and take it.&quot; -Checkov, &quot;The Sea-Gull&quot;"}
+    ], 
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2018/Rex/RexFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Rex/RexHS.jpg"
+  },
+  "Cory Johnson": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "11"}, 
+      {"infoName": "Major", "info": "Computer Science"}, 
+      {"infoName": "Hometown", "info": "San Antonio, Texas"}, 
+      {"infoName": "High School", "info": "James Madison High School"}, 
+      {"infoName": "Offices Held", "info": "Community Service and Recycling Chair"}, 
+      {"infoName": "Employment", "info": "CC.110 &quot;Becoming Human: Ancient Greek Perspectives on the Good Life&quot; TA"}, 
+      {"infoName": "Activities", "info": "MIT Leadership Training Institute (LTI) - Program and Activities Mentor, MIT MedLinks, MIT TechCallers"}, 
+      {"infoName": "Big Brother", "info": "Aaron Okello ('16)"},
+      {"infoName": "Little Brother", "info": "Christopher Washington ('20)"} 
+    ], 
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2018/Cory/CoryFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Cory/CoryHS.jpg"
+  },
+  "Jeremiah Smith": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "12"}, 
+      {"infoName": "Big Brother", "info": "Narindra Peaks ('17)"}
+    ], 
+    "familyTree": 2, 
+    "jumboSrc": "/images/brothers/2018/Jeremiah/JeremiahFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Jeremiah/JeremiahHS.jpg"
+  },
+  "Charles Ezeugwu": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "13"}, 
+      {"infoName": "Big Brother", "info": "Ebenezer Sefah Jr. ('15)"},
+      {"infoName": "Little Brother", "info": "Kebar Geleta ('20)"}
+
+    ], 
+    "familyTree": 2, 
+    "jumboSrc": "/images/brothers/2018/Charles/CharlesFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Charles/CharlesHS.jpg"
+  },
+  "Jerry Akinsulire": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "14"}, 
+      {"infoName": "Major", "info": "Nuclear Science and Engineering, and Physics"}, 
+      {"infoName": "Hometown", "info": "Jamaica, New York"}, 
+      {"infoName": "High School", "info": "Queens High School for the Sciences"}, 
+      {"infoName": "Big Brother", "info": "Moti Ogunsina ('17)"},
+      {"infoName": "Little Brother", "info": "Luke Bordonaro ('20)"},  
+      {"infoName": "Interests", "info": "Anime, Basketball, Games"}, 
+      {"infoName": "Employment", "info": "Nuclear Reactor Operator"}
+    ], 
+    "familyTree": 4, 
+    "jumboSrc": "/images/brothers/2018/Jerry/JerryFull.jpg", 
+    "iconSrc": "/images/brothers/2018/Jerry/JerryHS.jpg"
+  }
+}

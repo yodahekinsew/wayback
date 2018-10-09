@@ -1,0 +1,52 @@
+.classSelector td {
+  text-align: center;
+  color: white;
+  pointer-events: all;
+}
+
+.classSelector a {
+  pointer-events: all;
+  color: white;
+}
+
+.classSelector h2 {
+  margin: 0;
+}
+
+.pageMainContentContainer.brotherHomeMainContentContainer {
+  padding-top: 200px;
+}
+
+.brotherHomeContent .pageText.homeText {
+  margin: 0;
+}
+
+#brotherHomeCarousel {
+  overflow: hidden;
+  width: 80%;
+  margin: 0 auto;
+}
+
+#brotherHomeCarousel .carousel-inner {
+  text-align: center;
+}
+
+#brotherHomeCarousel .carouselImg {
+  display: inline-block;
+  height: 100%;
+}
+
+#brotherHomeCarousel #nuSoulVid {
+  width: 100%;
+}
+
+.brotherHomeMainContentContainer .valuesCol {
+  width: 33.3333%;
+  text-align: center;
+}
+
+.brotherHomeMainContentContainer .valuesDescription {
+  margin: 30px auto 0 auto;
+  width: 80%;
+  text-align: center;
+}

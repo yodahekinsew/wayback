@@ -1,0 +1,141 @@
+{  
+  "Anthony Pennes": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "1"}, 
+      {"infoName": "Major", "info": "2: Mechanical Engineering"}, 
+      {"infoName": "Hometown", "info": "New York"}, 
+      {"infoName": "High School", "info": "Highland High School"}, 
+      {"infoName": "Big Brother", "info": "Saul Lopez ('13)"}, 
+      {"infoName": "Offices Held", "info": "Assistant Work Week Chair, Assistant House Manager"}
+    ], 
+    "familyTree": 3, 
+    "jumboSrc": "/images/brothers/2016/Anthony/AnthonyHS.jpg", 
+    "iconSrc": "/images/brothers/2016/Anthony/AnthonyHS.jpg"
+  },
+  "Brian Wilcox": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "2"}, 
+      {"infoName": "Major", "info": "2: Mechanical Engineering"}, 
+      {"infoName": "Hometown", "info": "Texas"}, 
+      {"infoName": "High School", "info": "Garland High School"}, 
+      {"infoName": "Big Brother", "info": "Ebenezer Sefah Jr. ('15)"}, 
+      {"infoName": "Little Brother", "info": "Jordan Browne ('18)"},
+      {"infoName": "Offices Held", "info": "Chaplain"},
+      {"infoName": "Interests", "info": "Singing, Video Games, Basketball, Anime, Superhero Shows, Public Speaking, Debate, Philospophy, Religion"}, 
+      {"infoName": "Activities", "info": "CRU, MIT Logarhythms"},
+      {"infoName": "UROPs", "info": "Laboratory for Biomechanics and Human Rehabilitation (Fall 2013)"}, 
+      {"infoName": "Employment", "info": "MISTI Spain (Universidad Polit&eacute;cnica de Catalunya)"}
+    ], 
+    "familyTree": 2, 
+    "jumboSrc": "/images/brothers/2016/Brian/BrianJumbo.jpg", 
+    "iconSrc": "/images/brothers/2016/Brian/BrianHS.jpg"
+  },
+  "Alejandro Romero": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "3"},
+      {"infoName": "Major", "info": "2: Mechanical Engineering"}, 
+      {"infoName": "Hometown", "info": "Queretaro, Mexico"}, 
+      {"infoName": "High School", "info": "Tec de Monterrey"}, 
+      {"infoName": "Big Brother", "info": "Peter Lee ('13)"}, 
+      {"infoName": "Little Brother", "info": "James Rivera ('17)"}, 
+      {"infoName": "Offices Held", "info": "Pledge Trainer, Social Chair"},
+      {"infoName": "Interests", "info": "Traveling, Languages, Volleyball, People!"}, 
+      {"infoName": "Activities", "info": "Rowing Crew, Associate Advisor, International Mentor"}, 
+      {"infoName": "Favorite Quote", "info": "'Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.'"}, 
+      {"infoName": "About Me", "info": "I'm originally from Mexico but love traveling, getting to know people from different cultures, with different backgrounds, experiences and thoughts. Everyone has an amazing story to tell! I'm social, open minded, out going, responsible, try to be punctual, semi organized, empathetic, try to be awesome :)"}
+    ], 
+    "familyTree": 6, 
+    "jumboSrc": "/images/brothers/2016/Alex/AlexJumbo.jpg", 
+    "iconSrc": "/images/brothers/2016/Alex/AlexHS.jpg"
+  },
+  "Danny Sanchez": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "4"}, 
+      {"infoName": "Major", "info": "6-3: Computer Science"}, 
+      {"infoName": "Hometown", "info": "Thiells, New York"}, 
+      {"infoName": "High School", "info": "North Rockland High School"}, 
+      {"infoName": "Big Brother", "info": "Sebastian Leon ('14)"}, 
+      {"infoName": "Little Brother", "info": "Kristopher Wiggins ('18), Billy Torres ('19)"}, 
+      {"infoName": "Offices Held", "info": "Webmaster, IFC Delegate"},
+      {"infoName": "Interests", "info": "Hip-hop dance and breakdance, motion graphics/VFX, graphic design, origami, tennis, violin, programming "}, 
+      {"infoName": "Activities", "info": "MIT Symphony Orchestra, Dance Troupe"}, 
+      {"infoName": "UROPs", "info": "Camera Culture Lab, Fluid Interfaces (LuminAR), NB Haystack, MITx (edX)"}, 
+      {"infoName": "Employment", "info": "AT&T (DIRECTV), ClearSlide"}, 
+      {"infoName": "Favorite Quote", "info": "'Be the change you wish to see in the world'"}
+    ], 
+    "familyTree": 0, 
+    "jumboSrc": "/images/brothers/2016/Me/MeJumbo.jpg", 
+    "iconSrc": "/images/brothers/2016/Me/MeHS.jpg"
+  },
+  "Eric Shirley": {
+    "info": [
+      {"infoName": "Pledge Number", "info": "5"}, 
+      {"infoName": "Major", "info": "2: Mechanical Engineering"}, 
+      {"infoName": "Hometown", "info": "Racine, Wisconsin"}, 
+      {"infoName": "High School", "info": "William Horlick High School"}, 
+      {"infoName": "Big Brother", "info": "Makai Cartman ('15)"}, 
+      {"infoName": "Little Brother", "info": "Solan Megerssa ('18)"}, 
+      {"infoName": "Offices Held", "info": "Vice President, Rush Chair, Treasurer, Assistant Work Week Chair, Assistant Rush Chair"},
+      {"infoName": "Interests", "info": "Volleyball, DJing, Hip-hop dance"}, 
+      {"infoName": "Activities", "info": "Dance Troupe, Club Volleyball"}, 
+      {"infoName": "UROPs", "info": "Fluid Interfaces (LuminAR), MIT IS&T, Space Systems Lab (REXIS)"}, 
+      {"infoName": "Employment", "info": "AT&T (DIRECTV)"}
+    ],
+    "familyTree": 5, 
+    "jumboSrc": "/images/brothers/2016/Eric/EricJumbo.jpg", 
+    "iconSrc": "/images/brothers/2016/Eric/EricHS.jpg"
+  },
+  "Calvin Li": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "6"}, 
+      {"infoName": "Major", "info": "6-3: Computer Science"}, 
+      {"infoName": "Hometown", "info": "Oakland, California"}, 
+      {"infoName": "High School", "info": "Head-Royce School"}, 
+      {"infoName": "Big Brother", "info": "Christian Mata ('15)"}, 
+      {"infoName": "Little Brother", "info": "Carlos Henriquez ('17)"},
+      {"infoName": "Offices Held", "info": "Treasurer, Academic Chair, Steward"},
+      {"infoName": "Interests", "info": "Dancing, Basketball"},
+      {"infoName": "Activities", "info": "Dance Troupe"},
+      {"infoName": "UROPs", "info": "Space Systems Lab (Zero Robotics)"},
+      {"infoName": "Employment", "info": "Redfin, ClearSlide"}, 
+      {"infoName": "Favorite Quote", "info": "'God grant me the serenity to accept the things I can't change, the courage to change the things I can, and the wisdom to know the difference'"}
+    ],
+    "familyTree": 3, 
+    "jumboSrc": "/images/brothers/2016/Calvin/CalvinJumbo.jpg", 
+    "iconSrc": "/images/brothers/2016/Calvin/CalvinHS.jpg"
+  },
+  "Aaron Okello": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "7"}, 
+      {"infoName": "Major", "info": "16: Aeronautics and Astronautics"},
+      {"infoName": "Hometown", "info": "Maryland"}, 
+      {"infoName": "High School", "info": "Gerogetown Preparatory School"}, 
+      {"infoName": "Big Brother", "info": "Frank Pe&ntilde;a ('15)"}, 
+      {"infoName": "Little Brothers", "info": "Frederick Daso ('17), Cory Johnson ('18)"},
+      {"infoName": "Offices Held", "info": "Social Chair, Summer Housing Planner"},
+      {"infoName": "Interests", "info": "Music, Dance, DJing"},
+      {"infoName": "Favorite Quote", "info": "'Every time I worry or feel a bit unsure, I hit the stage and look around and feel so reassured.'"}
+    ],
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2016/Aaron/AaronJumbo.jpg", 
+    "iconSrc": "/images/brothers/2016/Aaron/AaronHS.jpg"
+  },
+  "Mikael Mengistu": { 
+    "info": [
+      {"infoName": "Pledge Number", "info": "8"},
+      {"infoName": "Major", "info": "6-3: Computer Science"}, 
+      {"infoName": "Hometown", "info": "Portland, Oregon"}, 
+      {"infoName": "High School", "info": "Franklin High School"}, 
+      {"infoName": "Big Brother", "info": "Nahom Workie ('13)"},
+      {"infoName": "Little Brother", "info": "Yoeal Efrem ('18), Bruke Kifle ('19)"}, 
+      {"infoName": "Offices Held", "info": "House Manager, Athletic Chair"},
+      {"infoName": "Interests", "info": "Coding, Politics, Soccer, Music"},
+      {"infoName": "UROPs", "info": "Space Systems Lab, Computational Perception & Cognition"},
+      {"infoName": "Employment", "info": "GroupMe, Redfin, Microsoft"}, 
+      {"infoName": "Favorite Quote", "info": "&quot;Don't pray for easier lives, pray to be stronger men&quot;"}
+    ],
+    "familyTree": 1, 
+    "jumboSrc": "/images/brothers/2016/Mike/MikeJumbo.jpg", 
+    "iconSrc": "/images/brothers/2016/Mike/MikeHS.jpg"
+  }
+}

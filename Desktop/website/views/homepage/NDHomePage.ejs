@@ -1,0 +1,150 @@
+<html>
+    <head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Palatino Linotype";
+            background-color: black;
+            
+        }
+        .divwithimg,
+        .shader,
+        .content{
+            transform: translateY(-3%);
+        }
+        .divwithimg {
+            background-image: url(images/homepage/header.jpg);
+            height: 110%;
+            width: 100%;
+            background-size: cover;
+            position: absolute;
+            display: flex;
+            white-space: pre;
+        }
+
+        .shader {
+            background: linear-gradient(rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 90%, rgb(0,0,0) 100%);
+            height: 110%;
+            width: 100%;
+            position: absolute;
+            color: white;
+            font-size: 160px;
+            text-align: center;
+            line-height: 600%;
+        }
+
+        .content {
+            height: 300%;
+            width: 100%;
+            background-color: black;
+            color: white;
+            transform: translateY(34.9%);
+        }
+
+        .presidentimg {
+            background-image: url(images/homepage/Fabrice.jpg);
+            transform: translateX(10%);
+            height: 22%;
+            width: 30%;
+            background-size: cover;
+        }
+
+        .brothersimg {
+            background-image: url(images/homepage/Mainehouse2017.jpg);
+            width: 80%;
+            height: 25%;
+            background-size: cover;
+            top: 29%;
+            left: 10%;
+        }
+        
+        .houseimg{
+            z-index: 2;
+            background-image: url(images/homepage/Background.png);
+            width: 70%;
+            height: 25%;
+            top: 64%;
+            left: 15%;
+            background-size: cover;
+        }
+        
+        h1 {
+            z-index: 0;
+            position: relative;
+            font-size: 30px;
+            z-index: 0;
+            overflow: hidden;
+            text-align: center;
+        }
+
+        h1:before {
+            z-index: 0;
+            position: absolute;
+            top: 51%;
+            overflow: hidden;
+            width: 50%;
+            height: 5px;
+            content: '\a0';
+            background-color: rgb(255, 0, 75);
+        }
+
+        h1:after {
+            z-index: 0;
+            position: absolute;
+            top: 51%;
+            overflow: hidden;
+            width: 50%;
+            height: 5px;
+            content: '\a0';
+            background-color: rgb(150, 0, 255);
+        }
+
+        h1:before {
+            z-index: 0;
+            margin-left: -50%;
+            text-align: right;
+        }
+
+        ::-webkit-scrollbar {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="front">
+        <div class="divwithimg"></div>
+        <div class="shader">
+            <p style = "transform: translateY(25%);font-family: sans-serif;"><span style="color: rgb(255,0,50)">Nu Delta</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: rgb(150,0,255)">Fraternity</span></p>
+        </div>
+    </div>
+
+    <div class="content">
+        <div class="section1">
+            <h1 style="font-size: 50px;">A Word From Our President</h1>
+            <div class="presidentimg" style="position: absolute"></div>
+            <div class="presidentname" style="padding-left: 35%; position: absolute; font-size: 25px;">
+                <p style="font-style: italic">Kebar Geleta</p>
+            </div>
+            <div class="presidentwords" style="padding-top: 3%; padding-left: 35%; padding-right: 10%; position: absolute;">
+                <p style="font-size: 30px"><strong style="font-size: 40px">N</strong>u Delta has provided a home away from home for many of our members. The sense of community and brotherhood that everyone shows has been an inspiration for me and my time in the fraternity. So far, giving back as president has been a difficult journey, but rewarding nonetheless. It brings me joy to know that my actions as our community leader could make MIT more comfortable for some. Moving forward, Nu Delta's brothers plan to continue to foster a safe space for their fellow members and a model of exemplary character on campus. </p>
+            </div>
+        </div>
+        <div class = "section2">
+            <h1 style="transform: translateY(900%); font-size: 50px;">Brothers</h1>
+            <div class = "brothersimg" style = "position: absolute;"></div>
+            <div class = "brotherstext" style = "text-align: center;">
+                <p style = "transform: translateY(1700%);font-size: 30px"><strong style="font-size: 40px;">T</strong>he brothers of Nu Delta share a tight bond that brings<br>us together and promotes our success as individuals.</p>
+            </div>
+        </div>
+        <div class = "section3">
+            <h1 style = "transform: translateY(2100%); font-size: 50px;">Our House</h1>
+            <div class = "houseimg" style = "position: absolute;"></div>
+            <div class = "housetext" style = "text-align: center;">
+                <p style = "transform: translateY(1900%); font-size: 30px"><strong style="font-size: 40px;">M</strong>any of the brothers reside in our lovely 4 story mansion located at<br>460 Beacon Street in Boston. For many of the brothers, this is where our<br>fondest MIT memories are made, so we take great pride in our house.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

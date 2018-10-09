@@ -1,0 +1,91 @@
+<link rel="stylesheet" type="text/css" href="stylesheets/homepage/homepage.css">
+<script type="text/javascript" src="javascripts/controllers/homepage/HomePageController.js"></script>
+
+<div ng-controller="homepageController" id="homepageContainer">
+
+  <div class="homeInnerContainer">
+    <div ng-if="viewModel.datesWithEvents.length > 0" class="homeSection containerLeft nano">
+      <div class="nano-content">
+        <span style="text-align: center">
+          <h1>Events</h1>
+        </span>
+        <div class="eventsContent">
+          <div ng-repeat="titleDate in viewModel.datesWithEvents">
+
+            <h3>
+              <ts text="{{titleDate}}"></ts>
+            </h3>
+            
+            <div ng-repeat="event in viewModel.futureEvents[titleDate]" 
+                 class="imgShadow monthEvent">
+
+              <table>
+                <tr>
+                  <td>
+                    <h4 class="eventInfo eventTitle" ng-bind="event.name"></h4>
+<!--                <h6 class="eventDate" ng-bind="event.moment"></h6> -->
+                    <h5 class=" eventInfo eventTime" ng-bind="event.time"></h5>
+                    <h6 class=" eventInfo eventLocation" ng-bind="event.location"></h6>
+                  </td>
+                  <td width="30">
+                    <span class="glyphicon glyphicon-chevron-down"></span>
+                  </td>
+                </tr>
+              </table>
+              <p class="eventInfo eventDescription" ng-bind="event.description"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div ng-if="viewModel.datesWithEvents.length > 0" class="homeSection containerRight">
+      <div class="containerRightContent nano">
+        <div class="nano-content">
+          <div class="titleContainer">
+            <table id="titleTable">
+              <tr>
+                <td height="200"><img id="mainIcon" src="/images/PhoenixIcon.png"></td>
+                <td width="100%">
+                  <legend class="nameLegend" id="nudeltaTextLegend">
+                    <h1 id="nudeltaText">Nu Delta Fraternity</h1>
+                  </legend>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div id="homeFeed">
+            <%- partial('homepage/partials/homefeed') %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div ng-if="viewModel.datesWithEvents.length <= 0">
+      <div class="pageContentContainer homeContentContainer">
+        <div class="pageContent homeContent">
+          <div class="container pageMainContentContainer homeMainContentContainer">
+            <div class="containerRightContent nano">
+              <div class="nano-content">
+                <div class="titleContainer">
+                  <table id="titleTable">
+                    <tr>
+                      <td height="200"><img id="mainIcon" src="/images/PhoenixIcon.png"></td>
+                      <td width="100%">
+                        <legend class="nameLegend" id="nudeltaTextLegend">
+                          <h1 id="nudeltaText">Nu Delta Fraternity</h1>
+                        </legend>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div id="homeFeed">
+                  <%- partial('homepage/partials/homefeed') %>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

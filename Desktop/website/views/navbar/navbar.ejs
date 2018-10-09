@@ -1,0 +1,90 @@
+<link rel="stylesheet" type="text/css" href="/stylesheets/navbar/navbar.css">
+
+<script type="text/javascript" src="/javascripts/controllers/navbar/NavBarController.js"></script>
+<script type="text/javascript" src="/javascripts/services/ndService.js"></script>
+
+<script type="text/javascript">
+  var navbarViewVars = {
+    url: "<%- req.url %>"
+  }
+</script>
+
+<div data-ng-controller="navbarController" class="header" ng-class="{imgShadow: viewModel.isHomepage}">
+  <div id="linksContainer">
+    <a ng-repeat="link in viewModel.links"
+       class="link"
+       href="{{link.href}}"
+       data-toggle="{{link.dataToggle}}"
+       data-target="{{link.dataTarget}}">
+
+      <div class="linkDiv">
+        <span ng-style="link.style.icon" class="glyphicon glyphicon-{{link.icon}}"></span>
+        <span ng-style="link.style.text" ng-bind="link.text"></span>
+      </div>
+    </a>
+  </div>
+</div>
+
+<!-- Modal -->
+<div data-ng-controller="navbarController" class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h2 class="modal-title" id="myModalLabel">About Us</h2>
+      </div>
+
+      <div class="modal-body">
+        <h3>
+          <ts text="Contact Us"></ts>
+        </h3>
+        <div class="aboutSection">
+          <h4><b>President Email: </b></h4>
+          <p>&nbsp; nd_president@mit.edu</p>
+        </div>
+        <div class="aboutSection">
+          <table>
+            <tr>
+              <td><h4><b><legend>Facebook</legend></b></h4></td>
+              <td width="100">
+                <a href="https://www.facebook.com/MIT.ND?ref=br_tf">
+                  <img width="100" src="/images/navbar/facebookIcon.gif">
+                </a>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="aboutSection">
+          <table>
+            <tr>
+              <td><h4><b><legend>Twitter</legend></b></h4></td>
+              <td width="100">
+                <a href="https://twitter.com/nudelta">
+                  <img width="100" src="/images/navbar/twitterIcon.gif">
+                </a>
+              </td>
+            </tr>
+          </table>
+        </div>
+
+        <h3>
+          <ts text="Locate Us"></ts>
+        </h3>
+        <div>
+          <b>Nu Delta Address</b>
+          <p>
+            <a ng-href="https://www.google.com/maps/place/{{viewModel.urlAddress}}">
+              &nbsp; <span ng-bind="viewModel.address"></span>
+            </a>
+          </p>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>

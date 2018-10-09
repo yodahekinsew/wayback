@@ -1,0 +1,103 @@
+.brotherClassContainer .brotherClassContent .familyTreeLink {
+  padding-left: 50px;
+  font-size: 22px;
+}
+
+.brotherClassContainer .classSelector td {
+  text-align: center;
+  color: white;
+  pointer-events: all;
+}
+
+.brotherClassContainer .classSelector a {
+  pointer-events: all;
+  color: white;
+}
+
+.brotherClassContainer .classSelector h2 {
+  margin: 0;
+}
+
+.brotherClassContainer .pageMainContentContainer.brotherInfoContainer {
+  padding-top: 200px;
+}
+
+.brotherClassContainer .brotherHomeContent .pageText.homeText {
+  margin: 0;
+}
+
+.brotherClassContainer .brotherInfoContainer .imgCol {
+  width: 300px;
+  text-align: center;
+}
+
+.brotherClassContainer .brotherInfoContainer .nameCol {
+  padding-left: 25px;
+}
+
+.brotherClassContainer .brotherInfoContainer .brotherInfo {
+  width: 80%;
+  margin-top: 30px;
+}
+
+.brotherClassContainer .brotherInfoContainer #familyTreeOuterContainer {
+  margin-top: -200px;
+}
+
+.brotherClassContainer #familyTreeOuterContainer .familyTreeSpacer {
+  height: 200px;
+}
+
+.brotherClassContainer #familyTreeOuterContainer .familyTreeContainer {
+  width: 100%;
+  overflow: auto;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.brotherClassContainer .familyTreeContainer .tree {
+  white-space: nowrap;
+}
+
+.brotherClassContainer .familyTreeContainer .tree ul {
+  text-align: center;
+}
+
+.brotherClassContainer .familyTreeContainer .tree li {
+  float: none;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: -4px;
+}
+
+.brotherClassContainer .bottomSpace {
+  height: 100px;
+}
+
+.brotherClassContainer #brotherSelector {
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+  width: 100%;
+  text-align: center;
+}
+
+.brotherClassContainer #brotherSelector .brotherIconWrapper {
+  display: inline-block;
+  padding: 10px;
+  cursor: pointer;
+  overflow: visible !important;
+  vertical-align: bottom;
+}
+
+.brotherClassContainer #brotherSelector .brotherIcon {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  border-radius: 35px;
+  overflow: hidden;
+}
+
+.brotherClassContainer #brotherSelector .brotherIconImg {
+  height: 100%;
+}
